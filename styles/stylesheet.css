@@ -45,6 +45,12 @@ h2
 }
 
 /* Dimensions */
+body 
+{
+    margin:0px;
+    padding:10px 20px;
+}
+
 #container
 {
 }
@@ -66,9 +72,8 @@ h2
 
 #General
 {
-    width:60%;
-    max-width:60%;
-    padding:1%;
+    width:40%;
+    padding:4% 10%;
     border-style:solid;
     border-width:4px;
     border-color:yellow;
@@ -81,7 +86,7 @@ h2
 #resume
 {
     padding:1%;
-    margin-left:65%;
+    margin-left:62%;
     border-style:solid;
     border-width:4px;
     border-color:blue;
